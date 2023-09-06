@@ -1,5 +1,5 @@
 # SZTU_CourseSpider
-Based on Javascript。  
+Based on Javascript。  基于Javascript爬取深圳技术大学课表的脚本。
 ## 环境需要：  
 - node.js
 - 本地puppeteer环境（CMD中输入npm install puppeteer，需要本地计算机中有node.js的环境变量）
